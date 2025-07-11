@@ -87,5 +87,9 @@ padding: 60px;
 border:2px none ;
 }
 
+@media (max-widht: 600px){
+    .contenedor{flex-direction: column}
+}
+
 
 
